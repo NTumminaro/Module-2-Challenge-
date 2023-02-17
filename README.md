@@ -11,4 +11,4 @@ This is a simple starter portfolio where I will be able to showcase my work, as 
 
 ## Screenshots
 
-![ScreenShot](assets/images/screenshot.png)
+![ScreenShot](assets/images/screenshot4.png)
