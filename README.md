@@ -6,8 +6,8 @@ This is a simple starter portfolio where I will be able to showcase my work, as 
 
 ## Links
 
-- [Website](https://ntumminaro.github.io/Module-2-Challenge/)
-- [Github Repo](https://github.com/NTumminaro/Module-2-Challenge/)
+- [Website](https://ntumminaro.github.io/Simple-Starter-Portfolio/)
+- [Github Repo](https://github.com/NTumminaro/Simple-Starter-Portfolio/)
 
 ## Screenshots
 
